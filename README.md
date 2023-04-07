@@ -1,5 +1,5 @@
 # Ov-Havo-Bot
-
+#Beknur
 ```
 pip install -r requirements.txt
 ```
@@ -12,5 +12,5 @@ python -m venv env
 ```
 ```
  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
- Powershell
+ Powershellga yozasiz
  ```
