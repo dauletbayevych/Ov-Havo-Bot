@@ -1,5 +1,5 @@
 # Ov-Havo-Bot
-#Beknur
+# Beknur
 ```
 pip install -r requirements.txt
 ```
